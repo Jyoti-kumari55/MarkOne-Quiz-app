@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "start1": "node demo1-4.js",
+    "start5": "node demo5.js",
+    "start7": "node demo7.js",
+    "start8": "node demo8.js",
+    "startOne": "node markone.js",
+    "startTwo": "node marktwo.js"
+  }
+}
